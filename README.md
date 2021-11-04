@@ -1,6 +1,7 @@
 ### Hi there 👋
 [![ybong's 42 stats](https://badge42.herokuapp.com/api/stats/ybong?privacyName=true)](https://github.com/JaeSeoKim/badge42)
-[![yeawonbong's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeawonbong)](https://github.com/anuraghazra/github-readme-stats)
+![yeawonbong's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeawonbong&show_icons=true&theme=tokyonight)
+
 
 <!--
 **yeawonbong/yeawonbong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
